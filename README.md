@@ -1,0 +1,20 @@
+### [TED](https://leeyukyup.github.io/TED_pages)
+
+# TED每周笔记
+
+- [week1](https://leeyukyup.github.io/TED_pages/week1)
+- [week2](https://leeyukyup.github.io/TED_pages/week2)
+- [week3](https://leeyukyup.github.io/TED_pages/week3)
+- [week4](https://leeyukyup.github.io/TED_pages/week4)
+- [week5](https://leeyukyup.github.io/TED_pages/week5)
+- [week6](https://leeyukyup.github.io/TED_pages/week6)
+- [week7](https://leeyukyup.github.io/TED_pages/week7)
+- [week8](https://leeyukyup.github.io/TED_pages/week8)
+- [week9](https://leeyukyup.github.io/TED_pages/week9)
+- [week10](https://leeyukyup.github.io/TED_pages/week10)
+- [week11](https://leeyukyup.github.io/TED_pages/week11)
+- [week12](https://leeyukyup.github.io/TED_pages/week12)
+- [week13](https://leeyukyup.github.io/TED_pages/week13)
+- [week14](https://leeyukyup.github.io/TED_pages/week14)
+- [week15](https://leeyukyup.github.io/TED_pages/week15)
+- [week16](https://leeyukyup.github.io/TED_pages/week16)

@@ -1,5 +1,3 @@
-### [TED](https://leeyukyup.github.io/TED_pages)
-
 # TED每周笔记
 
 - [week1](https://leeyukyup.github.io/TED_pages/week1)

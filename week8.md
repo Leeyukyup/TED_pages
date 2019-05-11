@@ -11,7 +11,7 @@
 
 她尝试用愉快的方式教会孩子编程，让语法更有魅力，让孩子成为富有创造力的人。
 
-![image](https://note.youdao.com/yws/public/resource/578d1a89cd208723ad09bbddce1ae06f/xmlnote/5E4C8CD7F1BB4EDE94179EC6A4815030/1746)
+![image](https://leeyukyup.github.io/TED_pages/8.png)
 
 调查数据表明，女性的编程能力并不比男性差，女性也可以参与到“创造”而不是“消费”中来。**世界是大家的，同样，编程也是大家的，人人都有权益去学习。**<br>
 

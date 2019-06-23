@@ -10,35 +10,35 @@
 
 在当下社会，受到传统观念的影响，很多人对“性”避而不谈，认为这是丑陋不能见光的事。新出的性教育课本也被家长集体投诉，最后失败。在我看来，性教育是有必要的，认识性，也是认识身体的一部分，只有积极认识自己的身体，才能找到完整的自己。<br>
 
-![image](https://leeyukyup.github.io/TED_pages/15.png)
-
 ##### 2. 如何变得更有创意？
 
-玛丽莉·欧贝佐和Nilofer在TED演讲中提到一点是“”
+了解自己的另一方面，是要懂得如何控制自己的身体。什么样的情况下会有什么样的反应。<br>
+
+玛丽莉·欧贝佐和Nilofer都建议我们，多出去散步。他们的实验证明，舒适的运动会开阔人们的思维，能够激发创意。<br>
+
+![image](https://leeyukyup.github.io/TED_pages/15.png)
+
+##### 3. 如何拥有更健康、积极的性爱
+
+> 性的概念一直在变化，到了现在，我们开始讨论如何安全有趣处理性。
+
+现在我们关于“性”方面内容，会及其注意，避免谈及。我们可以大声说手臂，但是不能说大腿。这种逃避式的处理方式无法解决根本问题。<br>
+
+我们真正要做的，是放下关于性负面的观念，大方积极去学习、讨论他们。这样我们才能正确看待性，正确处理性冲动和欲望，不被压力和困扰
 
 <br>
 
-人的视觉思维是比较好的，相比于文字，更能记住和理解图片的意思。汤姆·赫克提示我们可以将思维可视化，从可视化中找到组织层次和规律。<br>
-
-##### 3. 资本主义不是意识形态，而是操作系统
-
-了解资本主义历史，更能找到资本主义的未来发展方向。<br>
-
-> Bhu Srinivasan解释资本主义说：“本质上讲，资本主义是一系列市场的组合。”
-
-我们在做决策或者做讨论的时候，要谨记这一点，新事物必将取代旧事物，新事物产生于旧事物之中且不够完善。<br>
-
-<br>
 通过这节课的学习，我有如下体会：
 
-1. 综合性思维的能力比想象的重要，影响人们看事情的角度。
-2. 环境保护不仅仅要使用生态材料，还要人们行为中抢救资源。
-3. 化繁为简有利于形成系统思维。
-4. 新事物必将取代旧事物，新事物产生于旧事物之中且不够完善。
+1. 性教育是有必要的，认识性，也是认识身体的一部分。
+2. 了解自己的另一方面，是要懂得如何控制自己的身体。
+3. 性方面，逃避式的处理方式无法解决根本问题。
+4. 大方积极去学习讨论，正确看待性，才能解决现在社会的性困扰。
 
 
 ---
 参考链接：
-1. [蕾拉·阿卡罗格鲁：纸比塑料好？——如何审视环境民俗](https://www.ted.com/talks/leyla_acaroglu_paper_beats_plastic_how_to_rethink_environmental_folklore?&language=zh-cn)
-2. [汤姆 赫克：遇到一个头疼的问题？先告诉我如何做烤面包吧！](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast?&language=zh-cn)
-3. [Bhu Srinivasan ：资本主义不是意识形态，而是操作系统](https://www.ted.com/talks/bhu_srinivasan_capitalism_isn_t_an_ideology_it_s_an_operating_system/up-next?&language=zh-cn)
+1. [莎拉·巴尔马克：于女性性行为的简单事实](https://www.ted.com/talks/marily_oppezzo_want_to_be_more_creative_go_for_a_walk?&language=zh-cn)
+2. [玛丽莉·欧贝佐：如何变得更有创意？去散个步](https://www.ted.com/talks/marily_oppezzo_want_to_be_more_creative_go_for_a_walk?&language=zh-cn)
+3. [Nilofer Merchan：准备开会吗？边走边谈吧](https://www.ted.com/talks/sarah_barmak_the_uncomplicated_truth_about_women_s_sexuality?&language=zh-cn)
+4. [如何拥有更健康、积极的性爱](https://www.ted.com/talks/tiffany_kagure_mugo_and_siphumeze_khundayi_how_to_have_a_healthier_positive_relationship_to_sex?&language=zh-cn)
